@@ -1,22 +1,4 @@
-# Theme
-Theme for discord
-/**
- * @name helo
- * @author Gibbu#1211
- * @version 2.0.0
- * @description Display your picture of choice with adjustable blur and brightness.
- * @source https://github.com/DiscordStyles/FrostedGlass
- * @invite ZHthyCw
- * @donate https://paypal.me/IanRGibson
- * @website https://gibbu.dev
- * @authorId 174868361040232448
- * @BDEditor Frosted Glass
-*/
-
-@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
-@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
-
-:root {
+{
   --background-image: url('https://media.discordapp.net/attachments/1347203722538651781/1355217151321178152/IMG_3879.jpg?ex=67e81fd3&is=67e6ce53&hm=8a39ba7085363e67c2105ec0641d80d9bbae5ebacf49935aa1b75733ab19ba39&');
   --background-image-blur: 0px;
   --background-image-size: cover;
@@ -29,7 +11,6 @@ Theme for discord
   --overlay-image-blur: 0px;
   --overlay-image-size: cover;
   --overlay-image-position: center;
-  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
   --home-button-size: cover;
   --home-button-position: center;
   --serverlist-brightness: 0;
@@ -49,7 +30,3 @@ Theme for discord
   --window-roundness: 10px;
   --update-notice-1: none;
 }
-
-/* Any custom CSS below here */
-
-
